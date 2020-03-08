@@ -5,7 +5,7 @@
 ```linux
 git clone https://github.com/mkdreams/docker-ngrok.git
 cd docker-ngrok
-docker build -t hteen/ngrok .
+docker build -t mkdreams/ngrok .
 ```
 
 ## RUN
