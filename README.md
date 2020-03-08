@@ -3,7 +3,7 @@
 ## BUILD IMAGE
 
 ```linux
-git clone https://github.com/hteen/docker-ngrok.git
+git clone https://github.com/mkdreams/docker-ngrok.git
 cd docker-ngrok
 docker build -t hteen/ngrok .
 ```
